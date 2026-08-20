@@ -115,5 +115,5 @@ finished than it is.
 
 ---
 
-Built by Ricardo Zuriel Nuño Vazquez. Abstract case study — the private control plane, keys, and
+Built by Zuriel Vázquez. Abstract case study — the private control plane, keys, and
 environment details are intentionally omitted.
